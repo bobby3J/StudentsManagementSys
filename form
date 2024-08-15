@@ -1,0 +1,8 @@
+
+<form>
+    <input type="text" name="name" id="" placeholder="Enter name">
+    <br>
+    <input type="text" name="class" id="" placeholder="Enter class">
+    <br>
+    <input type="submit" value="Submit">
+</form>
